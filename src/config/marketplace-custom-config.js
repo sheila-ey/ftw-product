@@ -49,9 +49,13 @@ export const filters = [
       // Note: label is not added through the translation files
       // to make filter customizations a bit easier.
       options: [
-        { key: 'men', label: 'Men' },
-        { key: 'women', label: 'Women' },
-        { key: 'kids', label: 'Kids' },
+        { key: 'graphics', label: 'Graphics & Design' },
+        { key: 'music', label: 'Music & Audio' },
+        { key: 'programming', label: 'Programming & Tech' },
+        { key: 'digital-marketing', label: 'Digital Marketing' },
+        { key: 'writing', label: 'Writing & Translation' },
+        { key: 'data', label: 'Data' },
+        { key: 'video', label: 'Video & Animation' },
       ],
     },
   },
